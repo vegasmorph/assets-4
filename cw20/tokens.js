@@ -1682,6 +1682,14 @@ module.exports = {
       icon: "https://ibb.co/MVqwGd9",
       decimals: 6,
     },
+    terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00: {
+      protocol: "Terra Tritium",
+      symbol: "TRIT",
+      name: "Tritium Token",
+      token: "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00",
+      icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
