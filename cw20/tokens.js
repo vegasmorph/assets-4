@@ -1691,12 +1691,12 @@ module.exports = {
       decimals: 6,
     },
     terra1zkhwtm4a559emekwj7z4vklzqupgjyad8ncpwvav38y5ef6g5tjse7ceus: {
-      Protocol: "Cremation Coin",
-      Symbol: "CREMAT",
-      Name: "Cremation Coin",
-      Token: "terra1zkhwtm4a559emekwj7z4vklzqupgjyad8ncpwvav38y5ef6g5tjse7ceus",
-      Icon: "https://cremat.io/wp-content/themes/cremat/assets/img/images/cremat_about.png",
-      Decimals: 6,
+      protocol: "Cremation Coin",
+      symbol: "CREMAT",
+      mame: "Cremation Coin",
+      token: "terra1zkhwtm4a559emekwj7z4vklzqupgjyad8ncpwvav38y5ef6g5tjse7ceus",
+      icon: "https://cremat.io/wp-content/themes/cremat/assets/img/images/cremat_about.png",
+      decimals: 6,
     },
   },
   testnet: {

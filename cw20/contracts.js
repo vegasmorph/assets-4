@@ -1819,6 +1819,11 @@ module.exports = {
       name: "Tritium Token",
       icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
     },
+    terra1zkhwtm4a559emekwj7z4vklzqupgjyad8ncpwvav38y5ef6g5tjse7ceus: {
+      protocol: "Cremation Coin",
+      mame: "Cremation Coin",
+      icon: "https://cremat.io/wp-content/themes/cremat/assets/img/images/cremat_about.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
