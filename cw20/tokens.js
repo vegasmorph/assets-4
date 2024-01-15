@@ -1690,6 +1690,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
       decimals: 6,
     },
+    terra1zkhwtm4a559emekwj7z4vklzqupgjyad8ncpwvav38y5ef6g5tjse7ceus: {
+      Protocol: "Cremation Coin",
+      Symbol: "CREMAT",
+      Name: "Cremation Coin",
+      Token: "terra1zkhwtm4a559emekwj7z4vklzqupgjyad8ncpwvav38y5ef6g5tjse7ceus",
+      Icon: "https://cremat.io/wp-content/themes/cremat/assets/img/images/cremat_about.png",
+      Decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
