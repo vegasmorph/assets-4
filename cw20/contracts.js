@@ -1824,6 +1824,11 @@ module.exports = {
       mame: "Cremation Coin",
       icon: "https://cremat.io/wp-content/themes/cremat/assets/img/images/cremat_about.png",
     },
+    terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt: {
+      protocol: "Frogztrik NFT Token",
+      mame: "Frogztrik NFT Token",
+      icon: "https://i.ibb.co/3Rh3Hgv/FRG-128-fff72949565e78ae127e.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {

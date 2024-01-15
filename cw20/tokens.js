@@ -1698,6 +1698,14 @@ module.exports = {
       icon: "https://cremat.io/wp-content/themes/cremat/assets/img/images/cremat_about.png",
       decimals: 6,
     },
+    terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt: {
+      protocol: "Frogztrik NFT Token",
+      symbol: "FRG",
+      mame: "Frogztrik NFT Token",
+      token: "terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt",
+      icon: "https://i.ibb.co/3Rh3Hgv/FRG-128-fff72949565e78ae127e.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
