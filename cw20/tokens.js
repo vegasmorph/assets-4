@@ -1536,7 +1536,7 @@ module.exports = {
       symbol: "BASE",
       name: "Burn and Stake Enterprise Token",
       token: "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
-      icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
+      icon: "https://ibb.co/rsC065M",
       decimals: 6,
     },
     terra1qqjukgt8ddhapd2tvwmzlzfz3ajzslmj9pjhanmf56t6tp502c7sd8uu0j: {
