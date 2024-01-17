@@ -1727,7 +1727,7 @@ module.exports = {
     terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
       protocol: "LBUNProject",
       name: "Burn and Stake Enterprise Token",
-      icon: "https://ibb.co/rsC065M",
+      icon: "https://i.ibb.co/FVS3w8J/cropped-logo-BASE-1-1.png",
     },
     terra134n8tkt9nxfwh3pt3cs8q3dprw4xlx7uf4upls2py52g30rs54hqn4c2zz: {
       protocol: "LunaClassicGoblins",

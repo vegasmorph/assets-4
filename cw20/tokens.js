@@ -1536,7 +1536,7 @@ module.exports = {
       symbol: "BASE",
       name: "Burn and Stake Enterprise Token",
       token: "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
-      icon: "https://ibb.co/rsC065M",
+      icon: "https://i.ibb.co/FVS3w8J/cropped-logo-BASE-1-1.png",
       decimals: 6,
     },
     terra1qqjukgt8ddhapd2tvwmzlzfz3ajzslmj9pjhanmf56t6tp502c7sd8uu0j: {
