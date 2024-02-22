@@ -1706,6 +1706,14 @@ module.exports = {
       icon: "https://i.ibb.co/3Rh3Hgv/FRG-128-fff72949565e78ae127e.png",
       decimals: 6,
     },
+    terra10fusc7487y4ju2v5uavkauf3jdpxx9h8sc7wsqdqg4rne8t4qyrq8385q6: {
+      protocol: "LBUNProject",
+      symbol: "cwLUNC",
+      name: "LUNC (CW20)",
+      token: "terra10fusc7487y4ju2v5uavkauf3jdpxx9h8sc7wsqdqg4rne8t4qyrq8385q6",
+      icon: "https://i.ibb.co/KsxHYW2/cw-LUNC-128.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {

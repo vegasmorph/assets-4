@@ -1829,6 +1829,11 @@ module.exports = {
       mame: "Frogztrik NFT Token",
       icon: "https://i.ibb.co/3Rh3Hgv/FRG-128-fff72949565e78ae127e.png",
     },
+    terra10fusc7487y4ju2v5uavkauf3jdpxx9h8sc7wsqdqg4rne8t4qyrq8385q6: {
+      protocol: "LBUNProject",
+      name: "LUNC (CW20)",
+      icon: "https://i.ibb.co/KsxHYW2/cw-LUNC-128.png",
+    },  
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
