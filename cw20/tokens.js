@@ -297,12 +297,12 @@ module.exports = {
       token: "terra1zp3a6q6q4953cz376906g5qfmxnlg77hx3te45",
       icon: "https://raw.githubusercontent.com/Mirror-Protocol/whitelist/master/icon/VIXY.png",
     },
-    terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr: {
-      protocol: "LoTerra",
-      symbol: "LOTA",
-      token: "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr",
-      icon: "https://loterra.io/LOTA.png",
-    },
+    // terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr: {
+    //   protocol: "LoTerra",
+    //   symbol: "LOTA",
+    //   token: "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr",
+    //   icon: "https://loterra.io/LOTA.png",
+    // },
     terra17jnhankdfl8vyzj6vejt7ag8uz0cjc9crkl2h7: {
       protocol: "Digipharm",
       symbol: "DPH",
@@ -1384,14 +1384,14 @@ module.exports = {
       icon: "https://orion.money/assets/orionASTRO-LOGO@256x256.png",
       decimals: 6,
     },
-    terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp: {
-      protocol: "Retrograde",
-      symbol: "RETRO",
-      name: "Retrograde",
-      token: "terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp",
-      icon: "https://retrograde.money/retro_logo.png",
-      decimals: 6,
-    },
+    // terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp: {
+    //   protocol: "Retrograde",
+    //   symbol: "RETRO",
+    //   name: "Retrograde",
+    //   token: "terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp",
+    //   icon: "https://retrograde.money/retro_logo.png",
+    //   decimals: 6,
+    // },
     terra16wggm67a34msdxasg2vergm2pt289y7930wv7d: {
       protocol: "TerrnadoCash",
       symbol: "TND",
