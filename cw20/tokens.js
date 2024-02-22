@@ -1706,6 +1706,14 @@ module.exports = {
       icon: "https://i.ibb.co/3Rh3Hgv/FRG-128-fff72949565e78ae127e.png",
       decimals: 6,
     },
+    terra1gcr97yaq923qaxa3gzn70kpx29c28m2c3prxn66vev3segea7y4qps5vj4: {
+      protocol: "Lenny",
+      symbol: "LennyL",
+      name: "Lenny",
+      token: "terra1gcr97yaq923qaxa3gzn70kpx29c28m2c3prxn66vev3segea7y4qps5vj4",
+      icon: "https://pbs.twimg.com/profile_images/1759627296581799936/VPYn_MVy.jpg",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
