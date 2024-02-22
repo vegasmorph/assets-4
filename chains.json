@@ -9,7 +9,7 @@
   },
   "testnet": {
     "name": "testnet",
-    "chainID": "rebel-2",
+    "chainID": "octagon-1",
     "lcd": "https://lcd.terra-classic.hexxagon.dev",
     "api": "https://api.terra-classic.hexxagon.dev",
     "hive": "https://hive.terra-classic.hexxagon.io/graphql",

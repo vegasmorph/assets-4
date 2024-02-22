@@ -443,22 +443,45 @@ module.exports = {
     terra1lzxz6arwkq6vlt0z2af0fdvz93ftrygq28lad2w778r5p0sgt2mql04e92: {
       dex: "terraswap",
       type: "xyk",
-      assets: ["terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh", "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m"],
+      assets: [
+        "terra1duwst8wnp6tv9m97mc66afqm7yqfmcdrqjdkzyqyjejxry4hkp8qq225yh",
+        "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
+      ],
     },
     terra1kaphd3s9kl72cht3qmn0elkcqezcz60zarapah677adg8dhtvlequ6gezy: {
       dex: "terraswap",
       type: "xyk",
       assets: ["uusd", "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m"],
-    },    
+    },
     terra17yjncjupvk0kmpmhe6gnwny70z4zjkrn4600lpsaz7v0menddggscsvwxm: {
       dex: "terraswap",
       type: "xyk",
       assets: ["uluna", "terra1j9q30fspe7tn0nrxpjfnzzdha4xfkyznluwnqrgxshtyv2tfe5kswnrj6c"],
     },
     terra1rmx3drlqsne5mtjzpwj4h3l9tqds3rpsdyak029hs6g306vlv66sknzpkj: {
-      dex: 'terraswap',
-      type: 'xyk',
-      assets: ['terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh', 'uluna'],
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh", "uluna"],
+    },
+    terra1rdm4u439w8lery29m5dv5z6w7raea0gvt29qefqhr37n5n4yhphsxlqpwc: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uluna", "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00"],
+    },
+    terra15ukfg2wy9xd4g8hd5nl2rdyn7arlwk4l9u6kalwmg0pew5pjlpgskydg2a: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uluna", "terra1zkhwtm4a559emekwj7z4vklzqupgjyad8ncpwvav38y5ef6g5tjse7ceus"],
+    },
+    terra1a63458gqlpsj5pza0csr09230cljc74acygxhf04lys05nryepeqv67uzp: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uluna", "terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt"],
+    },
+    terra1ma72dw9wlkj23nar0qxjhecs24ygzywrqu3rphtjzk2czh0jgyrq2n86lz: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["uusd", "terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00"],
     },
   },
   testnet: {},

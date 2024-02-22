@@ -1727,7 +1727,7 @@ module.exports = {
     terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m: {
       protocol: "LBUNProject",
       name: "Burn and Stake Enterprise Token",
-      icon: "https://raw.githubusercontent.com/lbunproject/BASEswap-web-app_Classic/main/src/images/Token/LBUNC_256.png",
+      icon: "https://i.ibb.co/FVS3w8J/logo.png",
     },
     terra134n8tkt9nxfwh3pt3cs8q3dprw4xlx7uf4upls2py52g30rs54hqn4c2zz: {
       protocol: "LunaClassicGoblins",
@@ -1759,7 +1759,7 @@ module.exports = {
       name: "SON",
       icon: "https://swap.sonikchain.com/sonic32.png",
     },
-    terra1lx6w28yvma0y8hll0svg687ft694yrgax5k276: {
+    terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp: {
       protocol: "Terraport",
       name: "Terraport",
       icon: "https://i.ibb.co/GtmvHT4/logo.png",
@@ -1813,6 +1813,21 @@ module.exports = {
       protocol: "OSMIO Rewards",
       name: "OSMIO Rewards",
       icon: "https://ibb.co/MVqwGd9",
+    },
+    terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00: {
+      protocol: "Terra Tritium",
+      name: "Tritium Token",
+      icon: "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
+    },
+    terra1zkhwtm4a559emekwj7z4vklzqupgjyad8ncpwvav38y5ef6g5tjse7ceus: {
+      protocol: "Cremation Coin",
+      mame: "Cremation Coin",
+      icon: "https://cremat.io/wp-content/themes/cremat/assets/img/images/cremat_about.png",
+    },
+    terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt: {
+      protocol: "Frogztrik NFT Token",
+      mame: "Frogztrik NFT Token",
+      icon: "https://i.ibb.co/3Rh3Hgv/FRG-128-fff72949565e78ae127e.png",
     },
   },
   testnet: {
