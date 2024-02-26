@@ -1722,6 +1722,22 @@ module.exports = {
       icon: "https://pbs.twimg.com/profile_images/1759627296581799936/VPYn_MVy.jpg",
       decimals: 6,
     },
+    terra1dyve2ds3lx8df6ct0dfr3upetduhw2efjd0m86a6fd8kdv7jxf0sdudn07: {
+      protocol: "Death",
+      symbol: "DTH",
+      name: "Death",
+      token: "terra1dyve2ds3lx8df6ct0dfr3upetduhw2efjd0m86a6fd8kdv7jxf0sdudn07",
+      icon: "https://ibb.co/tYD7zwn",
+      decimals: 6,
+    },
+    terra1nuwdr5zaul2gnq88xapq8ythmaw4092kt8lxsl6jd36h47u8vpcqnrmdcm: {
+      protocol: "Lunc Candy",
+      symbol: "LNC",
+      name: "Lunc Candy",
+      token: "terra1nuwdr5zaul2gnq88xapq8ythmaw4092kt8lxsl6jd36h47u8vpcqnrmdcm",
+      icon: "https://ibb.co/VY8pZ0b",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
