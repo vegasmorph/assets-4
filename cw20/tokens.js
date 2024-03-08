@@ -1738,6 +1738,14 @@ module.exports = {
       icon: "https://ibb.co/VY8pZ0b",
       decimals: 6,
     },
+    terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y: {
+      protocol: "ELON",
+      symbol: "ELON",
+      name: "ELON",
+      token: "terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y",
+      icon: "https://ibb.co/0ByCd68",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
