@@ -1679,7 +1679,7 @@ module.exports = {
       symbol: "OSMIO",
       name: "OSMIO Rewards",
       token: "terra1f7ekmqgzvd0myju7z922ecg4camkq27j77yvlut0jfvrqakm0ersjftceh",
-      icon: "https://ibb.co/MVqwGd9",
+      icon: "https://i.ibb.co/0MP4F5Q/2-E386-A05-FD8-D-453-F-A905-89-BC5827319-E.png",
       decimals: 6,
     },
     terra1g6fm3yu79gv0rc8067n2nnfpf0vks6n0wpzaf4u7w48tdrmj98zsy7uu00: {
