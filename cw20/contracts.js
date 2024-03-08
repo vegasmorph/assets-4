@@ -1827,17 +1827,17 @@ module.exports = {
     terra1dyve2ds3lx8df6ct0dfr3upetduhw2efjd0m86a6fd8kdv7jxf0sdudn07: {
       protocol: "Death",
       name: "Death",
-      icon: "https://ibb.co/tYD7zwn",
+      icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
     },
     terra1nuwdr5zaul2gnq88xapq8ythmaw4092kt8lxsl6jd36h47u8vpcqnrmdcm: {
       protocol: "Lunc Candy",
       name: "Lunc Candy",
-      icon: "https://ibb.co/VY8pZ0b",
+      icon: "https://i.ibb.co/RTW4mGt/54276804.png",
     },
     terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y: {
       protocol: "ELON",
       name: "ELON",
-      icon: "https://ibb.co/0ByCd68",
+      icon: "https://i.ibb.co/PTGcfP3/IMG-9538.png",
     },
   },
   testnet: {

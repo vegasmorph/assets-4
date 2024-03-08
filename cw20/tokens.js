@@ -1727,7 +1727,7 @@ module.exports = {
       symbol: "DTH",
       name: "Death",
       token: "terra1dyve2ds3lx8df6ct0dfr3upetduhw2efjd0m86a6fd8kdv7jxf0sdudn07",
-      icon: "https://ibb.co/tYD7zwn",
+      icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
       decimals: 6,
     },
     terra1nuwdr5zaul2gnq88xapq8ythmaw4092kt8lxsl6jd36h47u8vpcqnrmdcm: {
@@ -1735,7 +1735,7 @@ module.exports = {
       symbol: "LNC",
       name: "Lunc Candy",
       token: "terra1nuwdr5zaul2gnq88xapq8ythmaw4092kt8lxsl6jd36h47u8vpcqnrmdcm",
-      icon: "https://ibb.co/VY8pZ0b",
+      icon: "https://i.ibb.co/RTW4mGt/54276804.png",
       decimals: 6,
     },
     terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y: {
@@ -1743,7 +1743,7 @@ module.exports = {
       symbol: "ELON",
       name: "ELON",
       token: "terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y",
-      icon: "https://ibb.co/0ByCd68",
+      icon: "https://i.ibb.co/PTGcfP3/IMG-9538.png",
       decimals: 6,
     },
   },
