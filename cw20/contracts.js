@@ -1844,6 +1844,11 @@ module.exports = {
       name: "Frogztrik NFT Token",
       icon: "https://i.ibb.co/0XdJs0j/1702309597672.png",
     },
+    terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2: {
+      protocol: "sFROG",
+      name: "Staking FROG Token",
+      icon: "https://i.ibb.co/QXZfY3B/s-FROG-128.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {

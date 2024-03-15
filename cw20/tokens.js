@@ -1770,6 +1770,14 @@ module.exports = {
       icon: "https://i.ibb.co/0XdJs0j/1702309597672.png",
       decimals: 6,
     },
+    terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2: {
+      protocol: "sFROG",
+      symbol: "sFROG",
+      name: "Staking FROG Token",
+      token: "terra13ckj8swv4xpnh98z4ltpa664ryg7suu89tlqlz8zecwp9pc2r2xstdn7r2",
+      icon: "https://i.ibb.co/QXZfY3B/s-FROG-128.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
