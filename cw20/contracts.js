@@ -1839,6 +1839,11 @@ module.exports = {
       name: "ELON",
       icon: "https://i.ibb.co/PTGcfP3/IMG-9538.png",
     },
+    terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9: {
+      protocol: "FROG",
+      name: "Frogztrik NFT Token",
+      icon: "https://i.ibb.co/0XdJs0j/1702309597672.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {

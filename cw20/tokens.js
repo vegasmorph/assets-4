@@ -1746,6 +1746,14 @@ module.exports = {
       icon: "https://i.ibb.co/PTGcfP3/IMG-9538.png",
       decimals: 6,
     },
+    terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9: {
+      protocol: "FROG",
+      symbol: "FROG",
+      name: "Frogztrik NFT Token",
+      token: "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9",
+      icon: "https://i.ibb.co/0XdJs0j/1702309597672.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
