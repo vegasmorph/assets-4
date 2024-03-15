@@ -1666,6 +1666,22 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/logo.png",
       decimals: 6,
     },
+    terra1jx9vy3egyzdhl5yj8994hv928ef70gzk9cj8htq9wc5wxl36rvfqqn4vu2: {
+      protocol: "LUNC Warriors NFT",
+      symbol: "LWM",
+      name: "LUNC Warriors Meme Token",
+      token: "terra1jx9vy3egyzdhl5yj8994hv928ef70gzk9cj8htq9wc5wxl36rvfqqn4vu2",
+      icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/lwm_small.png",
+      decimals: 6,
+    },
+    terra15gjgmln8xj72rf69tx2zlrtcjzzvkcrdvrvfnmxja6kacz07pg0ssflecz: {
+      protocol: "Terra Farming",
+      symbol: "FOOD",
+      name: "FOOD Token",
+      token: "terra15gjgmln8xj72rf69tx2zlrtcjzzvkcrdvrvfnmxja6kacz07pg0ssflecz",
+      icon: "https://raw.githubusercontent.com/TerraFarming/cw20-assets/main/food_logo.png",
+      decimals: 6,
+    },
     terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw: {
       protocol: "Garuda Universe",
       symbol: "GRDX",
