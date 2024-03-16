@@ -1849,6 +1849,11 @@ module.exports = {
       name: "Staking FROG Token",
       icon: "https://i.ibb.co/QXZfY3B/s-FROG-128.png",
     },
+    terra19gzvkw5hft3ulp8n6ws3p9yradhc802axqal59lzxau6rqxktj9q0dwf9c: {
+      protocol: "TADF",
+      name: "Tadpole Frogztrik Token",
+      icon: "https://i.ibb.co/n3XvsYD/OIG1.jpg",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {

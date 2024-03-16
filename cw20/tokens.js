@@ -1778,6 +1778,14 @@ module.exports = {
       icon: "https://i.ibb.co/QXZfY3B/s-FROG-128.png",
       decimals: 6,
     },
+    terra19gzvkw5hft3ulp8n6ws3p9yradhc802axqal59lzxau6rqxktj9q0dwf9c: {
+      protocol: "TADF",
+      symbol: "TADF",
+      name: "Tadpole Frogztrik Token",
+      token: "terra19gzvkw5hft3ulp8n6ws3p9yradhc802axqal59lzxau6rqxktj9q0dwf9c",
+      icon: "https://i.ibb.co/n3XvsYD/OIG1.jpg",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
