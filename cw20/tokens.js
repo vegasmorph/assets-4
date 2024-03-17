@@ -1786,6 +1786,22 @@ module.exports = {
       icon: "https://i.ibb.co/n3XvsYD/OIG1.jpg",
       decimals: 6,
     },
+    terra12nj5wddk9rr7nzrq5zxgr5wnas2alfrneau6svvcnpak4xa0n3qs2pjq7c: {
+      protocol: "Air Force Lunc",
+      name: "PILOT MEME TOKEN",
+      symbol: "PILOT",
+      token: "terra12nj5wddk9rr7nzrq5zxgr5wnas2alfrneau6svvcnpak4xa0n3qs2pjq7c",
+      decimals: 6,
+      icon: " https://i.ibb.co/k8ZQgBP/pilot.png"
+    },
+    terra1cdgta6yjmqxfq0wu784g449qvf3xfesryl38h47geklfyhr4wt0qfcz47j: {
+      protocol: "Air Force Lunc",
+      name: "FORCE",
+      symbol: "FORCE",
+      token: "terra1cdgta6yjmqxfq0wu784g449qvf3xfesryl38h47geklfyhr4wt0qfcz47j",
+      decimals: 6,
+      icon: "https://i.ibb.co/6BCq2Gy/force.png"
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
