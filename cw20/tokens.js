@@ -1786,21 +1786,37 @@ module.exports = {
       icon: "https://i.ibb.co/n3XvsYD/OIG1.jpg",
       decimals: 6,
     },
+    terra17q57jnwrqd6fgvt267lpgnw5muuua2awgq0k6zhkuwryregr827sxljafx: {
+      protocol: "ELLON",
+      name: "TESSLA",
+      symbol: "TESSLA",
+      token: "terra17q57jnwrqd6fgvt267lpgnw5muuua2awgq0k6zhkuwryregr827sxljafx",
+      icon: "https://i.ibb.co/LQQ36tq/Tessla.png",
+      decimals: 6,
+    },
+    terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27: {
+      protocol: "ELLON",
+      name: "SPACEX",
+      symbol: "SPACEX",
+      token: "terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27",
+      icon: "https://i.ibb.co/cTPkh0Q/SpaceX.png",
+      decimals: 6,
+    },
     terra12nj5wddk9rr7nzrq5zxgr5wnas2alfrneau6svvcnpak4xa0n3qs2pjq7c: {
       protocol: "Air Force Lunc",
       name: "PILOT MEME TOKEN",
       symbol: "PILOT",
       token: "terra12nj5wddk9rr7nzrq5zxgr5wnas2alfrneau6svvcnpak4xa0n3qs2pjq7c",
+      icon: "https://i.ibb.co/k8ZQgBP/pilot.png",
       decimals: 6,
-      icon: " https://i.ibb.co/k8ZQgBP/pilot.png"
     },
     terra1cdgta6yjmqxfq0wu784g449qvf3xfesryl38h47geklfyhr4wt0qfcz47j: {
       protocol: "Air Force Lunc",
       name: "FORCE",
       symbol: "FORCE",
       token: "terra1cdgta6yjmqxfq0wu784g449qvf3xfesryl38h47geklfyhr4wt0qfcz47j",
+      icon: "https://i.ibb.co/6BCq2Gy/force.png",
       decimals: 6,
-      icon: "https://i.ibb.co/6BCq2Gy/force.png"
     },
   },
   testnet: {
