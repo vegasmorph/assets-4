@@ -1818,6 +1818,14 @@ module.exports = {
       icon: "https://i.ibb.co/6BCq2Gy/force.png",
       decimals: 6,
     },
+      terra1sx83yfywj6esksv4gj85qc5jkk4dvs20d2xe02yfqpxq3np34jvqgzu4f4: {
+      protocol: "Mooner Baron's Army",
+      name: "Mooner Baron's Army ",
+      symbol: "MBA",
+      token: "terra1sx83yfywj6esksv4gj85qc5jkk4dvs20d2xe02yfqpxq3np34jvqgzu4f4",
+      icon: "https://i.ibb.co/sQbf4xq/MBA-token-128.png",
+      decimals: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
