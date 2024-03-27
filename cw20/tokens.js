@@ -1674,6 +1674,14 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/LUNC-Warriors-NFT/cw20-token-assets/main/lwm_small.png",
       decimals: 6,
     },
+    terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2: {
+      protocol: "RakoffToken",
+      symbol: "Rakoff",
+      name: "RakoffToken",
+      token: "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+      icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png",
+      decimals: 6,
+    },
     terra15gjgmln8xj72rf69tx2zlrtcjzzvkcrdvrvfnmxja6kacz07pg0ssflecz: {
       protocol: "Terra Farming",
       symbol: "FOOD",
