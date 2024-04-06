@@ -1,5 +1,10 @@
 module.exports = {
   mainnet: {
+    terra1w6nns79ckrpmj8pue3ydatjggnfvw33vgse9pyp28payslxs8ahqj6ytqt: {
+      protocol: "DTH",
+      name: "Death Token",
+      icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
+    },
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
       protocol: "Wormhole",
       name: "Core Bridge",
