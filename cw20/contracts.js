@@ -1,10 +1,5 @@
 module.exports = {
   mainnet: {
-    terra1w6nns79ckrpmj8pue3ydatjggnfvw33vgse9pyp28payslxs8ahqj6ytqt: {
-      protocol: "DTH",
-      name: "Death Token",
-      icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
-    },
     terra1dq03ugtd40zu9hcgdzrsq6z2z4hwhc9tqk2uy5: {
       protocol: "Wormhole",
       name: "Core Bridge",
@@ -1829,11 +1824,6 @@ module.exports = {
       name: "Lenny",
       icon: "https://pbs.twimg.com/profile_images/1759627296581799936/VPYn_MVy.jpg",
     },
-    terra1dyve2ds3lx8df6ct0dfr3upetduhw2efjd0m86a6fd8kdv7jxf0sdudn07: {
-      protocol: "Death",
-      name: "Death",
-      icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
-    },
     terra1nuwdr5zaul2gnq88xapq8ythmaw4092kt8lxsl6jd36h47u8vpcqnrmdcm: {
       protocol: "Lunc Candy",
       name: "Lunc Candy",
@@ -1858,6 +1848,11 @@ module.exports = {
       protocol: "TADF",
       name: "Tadpole Frogztrik Token",
       icon: "https://i.ibb.co/n3XvsYD/OIG1.jpg",
+    },
+    terra1w6nns79ckrpmj8pue3ydatjggnfvw33vgse9pyp28payslxs8ahqj6ytqt: {
+      protocol: "DTH",
+      name: "Death Token",
+      icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
     },
   },
   testnet: {

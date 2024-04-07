@@ -1746,11 +1746,11 @@ module.exports = {
       icon: "https://pbs.twimg.com/profile_images/1759627296581799936/VPYn_MVy.jpg",
       decimals: 6,
     },
-    terra1dyve2ds3lx8df6ct0dfr3upetduhw2efjd0m86a6fd8kdv7jxf0sdudn07: {
+    terra1w6nns79ckrpmj8pue3ydatjggnfvw33vgse9pyp28payslxs8ahqj6ytqt: {
       protocol: "Death",
       symbol: "DTH",
       name: "Death",
-      token: "terra1dyve2ds3lx8df6ct0dfr3upetduhw2efjd0m86a6fd8kdv7jxf0sdudn07",
+      token: "terra1w6nns79ckrpmj8pue3ydatjggnfvw33vgse9pyp28payslxs8ahqj6ytqt",
       icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
       decimals: 6,
     },
@@ -1826,7 +1826,7 @@ module.exports = {
       icon: "https://i.ibb.co/6BCq2Gy/force.png",
       decimals: 6,
     },
-      terra1sx83yfywj6esksv4gj85qc5jkk4dvs20d2xe02yfqpxq3np34jvqgzu4f4: {
+    terra1sx83yfywj6esksv4gj85qc5jkk4dvs20d2xe02yfqpxq3np34jvqgzu4f4: {
       protocol: "Mooner Baron's Army",
       name: "Mooner Baron's Army ",
       symbol: "MBA",
