@@ -1854,6 +1854,16 @@ module.exports = {
       name: "Death Token",
       icon: "https://i.ibb.co/QYM2k7h/CC-20231103-223645.png",
     },
+    terra1jy0qqp7nyj5uz34t0w5yav006lak4zgspa6d89c0jlzy7zhknpsqz0q9vs: {
+      protocol : "Hmeme",
+      name: "Hamstermeme",
+      icon: "https://i.ibb.co/0qZS3CW/GI0h-ALVXAAAFgr7-2.png",
+    },
+    terra1e2e7cpqwdjpcywtlte0drcs2336jh8wh0u0lncvmpmh0agw5anqsgdmkjg: {
+        protocol: "Nmeme",
+        name: "Neutronmeme",
+        icon: "https://i.ibb.co/hWH7rzM/photo-2024-04-06-09-51-19-1.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
