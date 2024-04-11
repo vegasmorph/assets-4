@@ -500,7 +500,7 @@ module.exports = {
       dex: "terraport",
       type: "xyk",
       assets: ["uluna", "terra1sx83yfywj6esksv4gj85qc5jkk4dvs20d2xe02yfqpxq3np34jvqgzu4f4"],
-    },    
+    },
     terra1harfw8rcsfpsx2uytfs9meymtt60yrgtddxcgmvar9pd8w4wsqxqsdpuke: {
       dex: "terraswap",
       type: "xyk",
@@ -508,6 +508,11 @@ module.exports = {
         "terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y",
         "terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27",
       ],
+    },
+    terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
+      dex: "terraswap",
+      type: "xyk",
+      assets: ["terra1w4hthuvkm9lakfss5m6pvsn3dsn0kt4dsyen6c3y3s93fdzd436s87f390", "uluna"],
     },
   },
   testnet: {},

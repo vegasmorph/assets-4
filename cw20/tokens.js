@@ -1834,23 +1834,29 @@ module.exports = {
       icon: "https://i.ibb.co/sQbf4xq/MBA-token-128.png",
       decimals: 6,
     },
-    terra1jy0qqp7nyj5uz34t0w5yav006lak4zgspa6d89c0jlzy7zhknpsqz0q9vs:
-    {
-    	protocol: "Hamstermeme",
-    	name: "Hamstermeme",
-    	symbol: "Hmeme",
-    	token: "terra1jy0qqp7nyj5uz34t0w5yav006lak4zgspa6d89c0jlzy7zhknpsqz0q9vs",
-    	icon : "https://i.ibb.co/0qZS3CW/GI0h-ALVXAAAFgr7-2.png",
-    	decimal: 6,
+    terra1jy0qqp7nyj5uz34t0w5yav006lak4zgspa6d89c0jlzy7zhknpsqz0q9vs: {
+      protocol: "Hamstermeme",
+      name: "Hamstermeme",
+      symbol: "Hmeme",
+      token: "terra1jy0qqp7nyj5uz34t0w5yav006lak4zgspa6d89c0jlzy7zhknpsqz0q9vs",
+      icon: "https://i.ibb.co/0qZS3CW/GI0h-ALVXAAAFgr7-2.png",
+      decimal: 6,
     },
-    terra1e2e7cpqwdjpcywtlte0drcs2336jh8wh0u0lncvmpmh0agw5anqsgdmkjg:
-    {
-        protocol: "Neutronmeme", 
-        name: "Neutronmeme",
-        symbol: "Nmeme",
-        token: "terra1e2e7cpqwdjpcywtlte0drcs2336jh8wh0u0lncvmpmh0agw5anqsgdmkjg",
-        icon: "https://i.ibb.co/hWH7rzM/photo-2024-04-06-09-51-19-1.png",
-        decimal: 6,
+    terra1e2e7cpqwdjpcywtlte0drcs2336jh8wh0u0lncvmpmh0agw5anqsgdmkjg: {
+      protocol: "Neutronmeme",
+      name: "Neutronmeme",
+      symbol: "Nmeme",
+      token: "terra1e2e7cpqwdjpcywtlte0drcs2336jh8wh0u0lncvmpmh0agw5anqsgdmkjg",
+      icon: "https://i.ibb.co/hWH7rzM/photo-2024-04-06-09-51-19-1.png",
+      decimal: 6,
+    },
+    terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
+      protocol: "Cat Wif Hat",
+      name: "Cat Wif Hat",
+      symbol: "CatWifHat",
+      token: "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
+      icon: "https://images2.imgbox.com/67/3d/A6CzEXca_o.png",
+      decimal: 6,
     },
   },
   testnet: {
