@@ -1864,6 +1864,11 @@ module.exports = {
       name: "Neutronmeme",
       icon: "https://i.ibb.co/hWH7rzM/photo-2024-04-06-09-51-19-1.png",
     },
+    terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2: {
+      protocol: "RakoffToken",
+      name: "RakoffToken",
+      icon: "https://raw.githubusercontent.com/RakoffToken/assets/main/rakoff.png",
+    },
     terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
       protocol: "Cat Wif Hat",
       name: "Cat Wif Hat",
