@@ -514,6 +514,11 @@ module.exports = {
       type: "xyk",
       assets: ["terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882", "uluna"],
     },
+    terra13w6cruzc0xkdhpmrnspr5j282x3wyx0m4f6kjnr65tpq63usn8eqp5emy4: {
+      dex: "terraport",
+      type: "xyk",
+      assets: ["terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2", "uluna"],
+    },
   },
   testnet: {},
 };
