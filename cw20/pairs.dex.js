@@ -519,6 +519,19 @@ module.exports = {
       type: "xyk",
       assets: ["terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2", "uluna"],
     },
+    terra18lzl6drsnyr6m9mplfw2fkr8kw6gsvar7wr8wzqgcx7xva58dhpsq7jgdy: {
+      dex: "terraport",
+      type: "xyk",
+      assets: [
+        "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+        "terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp",
+      ],
+    },
+    terra1rlfns43umzqszm52txxmnseevffx2pe408c99m7cnvd828tdj67q9ftjs2: {
+      dex: "terraport",
+      type: "xyk",
+      assets: ["terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp", "uluna"],
+    },
   },
   testnet: {},
 };
