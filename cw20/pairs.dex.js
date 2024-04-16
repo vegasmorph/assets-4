@@ -519,11 +519,6 @@ module.exports = {
         "terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27",
       ],
     },
-    terra1w4hthuvkm9lakfss5m6pvsn3dsn0kt4dsyen6c3y3s93fdzd436s87f390: {
-      dex: "terraswap",
-      type: "xyk",
-      assets: ["terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882", "uluna"],
-    },
     terra13w6cruzc0xkdhpmrnspr5j282x3wyx0m4f6kjnr65tpq63usn8eqp5emy4: {
       dex: "terraport",
       type: "xyk",
