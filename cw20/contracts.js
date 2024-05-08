@@ -1872,7 +1872,12 @@ module.exports = {
     terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882: {
       protocol: "Cat Wif Hat",
       name: "Cat Wif Hat",
-      icon: "https://images2.imgbox.com/67/3d/A6CzEXca_o.png",
+      icon: "https://ibb.co/CPYx1M2",
+    },
+      terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
+      protocol: "Cat Wif Hat",
+      name: "Catnip",
+      icon: "https://ibb.co/jTRbrDq",
     },
   },
   testnet: {
