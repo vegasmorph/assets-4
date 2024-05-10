@@ -1863,7 +1863,7 @@ module.exports = {
       name: "Catnip",
       symbol: "CNip",
       token: "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
-      icon: "https://i.ibb.co/LS8HmHz/Stoned-Cat-1-2.jpg",
+      icon: "https://i.ibb.co/Cz2mHQ4/catnip-token.png",
       decimal: 6,
     },
   },
