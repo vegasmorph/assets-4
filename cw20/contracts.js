@@ -1874,10 +1874,15 @@ module.exports = {
       name: "Cat Wif Hat",
       icon: "https://i.ibb.co/Drv3V8p/Lion-Cat-5.png",
     },
-      terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
+    terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs: {
       protocol: "Cat Wif Hat",
       name: "Catnip",
       icon: "https://i.ibb.co/Cz2mHQ4/catnip-token.png",
+    },
+    terra19fufgpaec6c85nrw9j2a40rshdgcm9rhn6hlj2zmx03utpqkh2ls8jnxkz: {
+      protocol: "LUNCPEPE",
+      name: "LUNCPEPE",
+      icon: "https://i.ibb.co/qs0Lq50/Go-Art-1710113036953.png",
     },
   },
   testnet: {
