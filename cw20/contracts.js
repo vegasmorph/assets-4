@@ -1884,6 +1884,11 @@ module.exports = {
       name: "LUNCPEPE",
       icon: "https://i.ibb.co/qs0Lq50/Go-Art-1710113036953.png",
     },
+    terra14exvtapxa3s3aw3kua8f8rfttwlfqx6xh0ccsu42z78srmphsrksrdfx9f: {
+      protocol: "LUNC 420",
+      name: "LUNC420",
+      icon: "https://i.ibb.co/476wfxt/CC-20240322-232839.png",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
