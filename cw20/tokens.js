@@ -1874,6 +1874,14 @@ module.exports = {
       icon: "https://i.ibb.co/qs0Lq50/Go-Art-1710113036953.png",
       decimal: 6,
     },
+    terra14exvtapxa3s3aw3kua8f8rfttwlfqx6xh0ccsu42z78srmphsrksrdfx9f: {
+      protocol: "LUNC 420",
+      name: "LUNC 420",
+      symbol: "THC",
+      token: "terra14exvtapxa3s3aw3kua8f8rfttwlfqx6xh0ccsu42z78srmphsrksrdfx9f",
+      icon: "https://i.ibb.co/476wfxt/CC-20240322-232839.png",
+      decimal: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
