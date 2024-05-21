@@ -1889,6 +1889,21 @@ module.exports = {
       name: "LUNC420",
       icon: "https://i.ibb.co/476wfxt/CC-20240322-232839.png",
     },
+    terra1mkamwzk6n25kglrx95xcr798amsgg580zzvc90lljq368fn6d3ls509hzy: {
+      protocol : "TomJerry",
+      name: "Tom and Jerry",
+      icon: "https://i.ibb.co.com/3y9N5bC/IMG-0164.jpg",
+   },
+    terra1t4cj2tquy8qykjl2yt930mjkjl8fr29qctlch3ucpwtx2y7nr7tqmvnrap: {
+      protocol : "Tom",
+      name: "Tom and Jerry",
+      icon: "https://i.ibb.co.com/3BYrJ1c/IMG-0165.jpg",
+   },
+    terra1dl82u2zrlqfdc9m3zz86zdt6uzu2f6rdz4pqu648m0srqunt50lq0wny6l: {
+      protocol : "Jerry",
+      name: "Tom and Jerry",
+      icon: "https://i.ibb.co.com/Ksnbdyk/IMG-0166.jpg",
+   },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
