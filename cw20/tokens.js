@@ -1882,32 +1882,36 @@ module.exports = {
       icon: "https://i.ibb.co/476wfxt/CC-20240322-232839.png",
       decimal: 6,
     },
-    terra1mkamwzk6n25kglrx95xcr798amsgg580zzvc90lljq368fn6d3ls509hzy:
-    {
+    terra1mkamwzk6n25kglrx95xcr798amsgg580zzvc90lljq368fn6d3ls509hzy: {
       protocol: "Tom and Jerry",
       name: "Tom and Jerry",
       symbol: "TomJerry",
       token: "terra1mkamwzk6n25kglrx95xcr798amsgg580zzvc90lljq368fn6d3ls509hzy",
-      icon : "https://i.ibb.co.com/3y9N5bC/IMG-0164.jpg",
+      icon: "https://i.ibb.co.com/3y9N5bC/IMG-0164.jpg",
       decimal: 6,
     },
-    terra1t4cj2tquy8qykjl2yt930mjkjl8fr29qctlch3ucpwtx2y7nr7tqmvnrap:
-    {
-        protocol: "Tom and Jerry", 
-        name: "Tom and Jerry",
-        symbol: "Tom",
-        token: "terra1t4cj2tquy8qykjl2yt930mjkjl8fr29qctlch3ucpwtx2y7nr7tqmvnrap",
-        icon: "https://i.ibb.co.com/3BYrJ1c/IMG-0165.jpg",
-        decimal: 6,
+    terra1t4cj2tquy8qykjl2yt930mjkjl8fr29qctlch3ucpwtx2y7nr7tqmvnrap: {
+      protocol: "Tom and Jerry",
+      name: "Tom and Jerry",
+      symbol: "Tom",
+      token: "terra1t4cj2tquy8qykjl2yt930mjkjl8fr29qctlch3ucpwtx2y7nr7tqmvnrap",
+      icon: "https://i.ibb.co.com/3BYrJ1c/IMG-0165.jpg",
+      decimal: 6,
     },
-    terra1dl82u2zrlqfdc9m3zz86zdt6uzu2f6rdz4pqu648m0srqunt50lq0wny6l:
-    {
+    terra1dl82u2zrlqfdc9m3zz86zdt6uzu2f6rdz4pqu648m0srqunt50lq0wny6l: {
       protocol: "Tom and Jerry",
       name: "Tom and Jerry",
       symbol: "Jerry",
       token: "terra1dl82u2zrlqfdc9m3zz86zdt6uzu2f6rdz4pqu648m0srqunt50lq0wny6l",
-      icon : "https://i.ibb.co.com/Ksnbdyk/IMG-0166.jpg", 
+      icon: "https://i.ibb.co.com/Ksnbdyk/IMG-0166.jpg",
       decimal: 6,
+    },
+    terra12j3xuxx52cg045qk37ee4k4u4fsgvyuf8d89dh7c9mr706jvxdascahqej: {
+      protocol: "Rottweiler",
+      name: "Rottweiler",
+      symbol: "ROTTI",
+      token: "terra12j3xuxx52cg045qk37ee4k4u4fsgvyuf8d89dh7c9mr706jvxdascahqej",
+      icon: "https://i.ibb.co/2MWVvZC/Go-Art-1715889934142.jpg",
     },
   },
   testnet: {
