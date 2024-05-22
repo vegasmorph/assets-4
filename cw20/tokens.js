@@ -1912,6 +1912,15 @@ module.exports = {
       symbol: "ROTTI",
       token: "terra12j3xuxx52cg045qk37ee4k4u4fsgvyuf8d89dh7c9mr706jvxdascahqej",
       icon: "https://i.ibb.co/2MWVvZC/Go-Art-1715889934142.jpg",
+      decimal: 6,
+    },
+    terra15p8su45k45axng8ue59rl6zph4at27s49u3agr6uqrx3dhcxpg3qt0ekdt: {
+      protocol: "Cookie Monster Token",
+      name: "Cookie Monster Token",
+      symbol: "COOKIE",
+      token: "terra15p8su45k45axng8ue59rl6zph4at27s49u3agr6uqrx3dhcxpg3qt0ekdt",
+      icon : "https://i.ibb.co.com/mbzBZC3/Cookie.jpg", 
+      decimal: 6,
     },
   },
   testnet: {
