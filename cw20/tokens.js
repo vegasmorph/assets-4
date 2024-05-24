@@ -1922,6 +1922,15 @@ module.exports = {
       icon : "https://i.ibb.co.com/mbzBZC3/Cookie.jpg", 
       decimal: 6,
     },
+        terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2:
+    {
+      protocol: "Vegas Dao Coin",
+      name: "Vegas Dao Coin",
+      symbol: "VEGAS",
+      token: "terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2",
+      icon : "https://ibb.co/1LJDWQP", 
+      decimal: 6,
+    },
   },
   testnet: {
     terra1ss9zz4873vk4dd8dvua0vm83m6s8k7ctwp9efac0arytn6jthfgsy2d4a9: {
