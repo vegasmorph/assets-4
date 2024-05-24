@@ -1914,6 +1914,11 @@ module.exports = {
       name: "Cookie Monster Token",
       icon: "https://i.ibb.co.com/mbzBZC3/Cookie.jpg",
     },
+    terra1cgmv3h23t9mrg7q5w5lkfcpkdrxm2csnc03afe5q6xd9x7et0desfeawx2: {
+      protocol : "VEGAS",
+      name: "Vegas Dao Coin",
+      icon: "https://ibb.co/1LJDWQP",
+    },
   },
   testnet: {
     terra1c02vds4uhgtrmcw7ldlg75zumdqxr8hwf7npseuf2h58jzhpgjxsgmwkvk: {
